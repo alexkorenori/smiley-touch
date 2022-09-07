@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Ko?}@(ZG(~;)LnauuG#X">カウンター</variable></variables><block type="device_forever" id="vw(biM{EqKhn%#rXXTv:" x="76" y="94"><statement name="HANDLER"><block type="controls_if" id="TL/WxOE/)6ji{Dv*]s=~"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="input_logo_is_pressed" id="bJM-Jz^z-4AP/YITJg7x"></block></value><statement name="DO0"><block type="device_show_leds" id="~Dg;XLE}HFMcDhy8bE~e"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        # . . # # 
+        . # # # .
+        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="he$_Yw#I8|DXcbMvpz)b"></block></statement></block></statement></block></xml>
